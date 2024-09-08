@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figmax&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
