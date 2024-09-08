@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  <h2>💬 Introduction</h2>
+  <h2>💬 INTRODUCTION</h2>
   <p>안녕하세요!<br />프론트엔드 3년차 개발자 박희연입니다</p>
 </div>
 <br/>
-
 
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center>   
@@ -29,8 +28,6 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/next.js-DD0031?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <br>
 
@@ -39,4 +36,11 @@ Here are some ideas to get you started:
   <br>
 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+<br/>
+
+<div align=center><h2>📚 STUDY</h2></div>
+<div align=center>   
+  <img src="https://img.shields.io/badge/next.js-DD0031?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 </div>
