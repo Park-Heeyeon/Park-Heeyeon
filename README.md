@@ -1,5 +1,5 @@
 <!--
-**Park-Heeyeon/Park-Heeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Park-Heeyeon/Park-Heeyeon** is a c _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
   <h2>💬 Introduction</h2>
   <p>안녕하세요!<br />프론트엔드 3년차 개발자 박희연입니다</p>
 </div>
+<br/>
 
 
 <div align=center><h2>📚 STACKS</h2></div>
@@ -32,5 +33,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/next.js-DD0031?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <br>
-  
 </div>
