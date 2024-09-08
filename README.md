@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  <h2>💬Introduction</h2>
+  <h2>💬 Introduction</h2>
   <p>안녕하세요 프론트엔드 개발자 박희연입니다</p>
 </div>
 
