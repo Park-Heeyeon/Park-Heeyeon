@@ -1,5 +1,3 @@
-## Hello, I'm Heeyeon 👋
-
 <!--
 **Park-Heeyeon/Park-Heeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h3>안녕하세요 <br/> 프론트엔드 개발자 박희연입니다 🤗</h3></div>
+<div align=center>
+  <h2>Introduction</h2>
+  <p>안녕하세요 프론트엔드 개발자 박희연입니다</p>
+  
+</div>
+
 
 <div align=center><h2>📚 STACKS</h2></div>
-
 <div align=center>   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
