@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1>안녕하세요 <br/> 프론트엔드 개발자 박희연입니다 🤗</h1></div>
+<div align=center><h3>안녕하세요 <br/> 프론트엔드 개발자 박희연입니다 🤗</h3></div>
 
 <div align=center><h2>📚 STACKS</h2></div>
 
