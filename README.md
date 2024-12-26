@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/next.js-DD0031?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  
@@ -47,8 +48,3 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-<div align=center><h2>📚 STUDY</h2></div>
-<div align=center>   
-  <img src="https://img.shields.io/badge/next.js-DD0031?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
