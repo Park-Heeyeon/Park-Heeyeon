@@ -16,17 +16,6 @@ Here are some ideas to get you started:
   <h2>💬 INTRODUCTION</h2>
   <p>안녕하세요!<br />프론트엔드 개발자 박희연입니다</p>
   <div align=center><h2>📚 STACKS</h2></div>
-<div align="center">   
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"> 
-  <br>
 </div>
-<br/>
-</div>
-<br/>
 
 
