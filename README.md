@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <div align=center>
   <h2>💬 INTRODUCTION</h2>
   <p>안녕하세요!<br />프론트엔드 개발자 박희연입니다</p>
-  <div align=center><h2>📚 STACKS</h2></div>
 </div>
 
 
