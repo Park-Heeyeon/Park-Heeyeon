@@ -1,11 +1,4 @@
-<div align="center">
-
-# 박희연 | Frontend Developer
-
-사용자 경험과 유지보수하기 좋은 구조를 고민하는 프론트엔드 개발자입니다.  
-React와 TypeScript를 중심으로 웹 애플리케이션을 개발하고 있습니다.
-
-<br />
+<h2>💬 INTRODUCTION</h2> <p>안녕하세요!<br />프론트엔드 개발자 박희연입니다</p>
 
 ## Tech Stack
 
