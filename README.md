@@ -1,3 +1,4 @@
+<div align="center">
 <h2>💬 INTRODUCTION</h2> <p>안녕하세요!<br />프론트엔드 개발자 박희연입니다</p>
 
 ## Tech Stack
@@ -49,4 +50,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Heeyeon&layout=compact&hide_border=true" />
 
+</div>
 </div>
