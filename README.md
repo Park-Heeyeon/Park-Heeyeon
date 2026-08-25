@@ -42,13 +42,5 @@
 
 <br />
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Park-Heeyeon&show_icons=true&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Heeyeon&layout=compact&hide_border=true" />
-
 </div>
 </div>
